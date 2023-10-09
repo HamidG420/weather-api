@@ -1,4 +1,4 @@
-## Project in Action:
+## Project in Action
 
 [Weather Forecast](https://weather-forecast-ts.netlify.app)
 
